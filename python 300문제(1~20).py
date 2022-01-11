@@ -49,5 +49,3 @@ print(int(year)-1)
 월 = 48584
 총금액 = 월*36
 print(총금액)
-
-#test
